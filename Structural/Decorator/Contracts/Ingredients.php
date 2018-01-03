@@ -1,6 +1,6 @@
 <?php
 
-namespace Pattern\Decorator\Contracts;
+namespace Pattern\Structural\Decorator\Contracts;
 
 interface Ingredients
 {

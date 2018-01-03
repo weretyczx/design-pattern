@@ -1,8 +1,8 @@
 <?php
 
-namespace Pattern\Decorator;
+namespace Pattern\Structural\Decorator;
 
-use Pattern\Decorator\Contracts\Ingredients;
+use Pattern\Structural\Decorator\Contracts\Ingredients;
 
 class Burger implements Ingredients
 {

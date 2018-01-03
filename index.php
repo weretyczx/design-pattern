@@ -10,8 +10,18 @@
 </head>
 <body>
     <div class="container">
-        <a href="/Decorator">
-            <h1>裝飾者模式 Decorator</h1>
+        <h1>Creational</h1>
+        <a href="Creational/SimpleFactory">
+            <h2>簡單工廠模式 SimpleFactory</h2>
+        </a>
+        <a href="Creational/Singleton">
+            <h2>單例模式 Singleton</h2>
+        </a>
+    </div>
+    <div class="container">
+        <h1>Structural</h1>
+        <a href="Structural/Decorator">
+            <h2>裝飾者模式 Decorator</h2>
         </a>
     </div>
 

@@ -1,12 +1,12 @@
 <?php
 
-namespace Tests;
+namespace Tests\Structural;
 
 use PHPUnit\Framework\TestCase;
-use Pattern\Decorator\Burger;
-use Pattern\Decorator\Decorators\Beef;
-use Pattern\Decorator\Decorators\Cheese;
-use Pattern\Decorator\Decorators\Lettuce;
+use Pattern\Structural\Decorator\Burger;
+use Pattern\Structural\Decorator\Decorators\Beef;
+use Pattern\Structural\Decorator\Decorators\Cheese;
+use Pattern\Structural\Decorator\Decorators\Lettuce;
 
 Class DecoratorTest extends TestCase
 {

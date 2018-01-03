@@ -1,8 +1,8 @@
 <?php
 
-namespace Pattern\Decorator\Decorators;
+namespace Pattern\Structural\Decorator\Decorators;
 
-use Pattern\Decorator\Contracts\Ingredients;
+use Pattern\Structural\Decorator\Contracts\Ingredients;
 
 abstract class IngredientsDecorator implements Ingredients
 {
