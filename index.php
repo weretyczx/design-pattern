@@ -35,6 +35,12 @@
         <a href="Structural/Decorator">
             <h2>裝飾者模式 Decorator</h2>
         </a>
+        <a href="Structural/Adapter">
+            <h2>轉接者模式 Adapter</h2>
+        </a>
+        <a href="Structural/Bridge">
+            <h2>橋接模式 Bridge</h2>
+        </a>
     </div>
 
 
