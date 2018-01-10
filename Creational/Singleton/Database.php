@@ -40,7 +40,12 @@ class Database
 
     private function __clone()
     {
+        // change to private method prevent clone
+    }
 
+    private function __wakeup()
+    {
+        // change to private method prevent unserialize()
     }
 
 

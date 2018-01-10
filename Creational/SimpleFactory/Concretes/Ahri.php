@@ -1,6 +1,6 @@
 <?php
 
-namespace Pattern\Creational\SimpleFactory\Factory;
+namespace Pattern\Creational\SimpleFactory\Concretes;
 
 use Pattern\Creational\SimpleFactory\Contracts\Abilities;
 

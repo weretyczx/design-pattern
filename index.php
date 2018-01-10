@@ -14,8 +14,20 @@
         <a href="Creational/SimpleFactory">
             <h2>簡單工廠模式 SimpleFactory</h2>
         </a>
+        <a href="Creational/FactoryMethod">
+            <h2>工廠方法模式 FactoryMethod</h2>
+        </a>
+        <a href="Creational/AbstractFactory">
+            <h2>抽象工廠模式 AbstractFactory</h2>
+        </a>
         <a href="Creational/Singleton">
             <h2>單例模式 Singleton</h2>
+        </a>
+        <a href="Creational/Prototype">
+            <h2>原型模式 Prototype</h2>
+        </a>
+         <a href="Creational/Builder">
+            <h2>建造者模式 Builder</h2>
         </a>
     </div>
     <div class="container">

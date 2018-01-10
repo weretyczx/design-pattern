@@ -3,9 +3,9 @@
 namespace Pattern\Creational\SimpleFactory;
 
 use Pattern\Creational\SimpleFactory\Contracts\Abilities;
-use Pattern\Creational\SimpleFactory\Factory\Ahri;
-use Pattern\Creational\SimpleFactory\Factory\Fizz;
-use Pattern\Creational\SimpleFactory\Factory\JarvanIV;
+use Pattern\Creational\SimpleFactory\Concretes\Ahri;
+use Pattern\Creational\SimpleFactory\Concretes\Fizz;
+use Pattern\Creational\SimpleFactory\Concretes\JarvanIV;
 
 class LOLFactory
 {
